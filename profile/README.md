@@ -1,7 +1,6 @@
 HTML
-- Global: Visible on multiple pages (Same as component)
+- Global/Component: Visible on multiple pages
 - Page
-- Component: Visible on multiple pages (Same as Global)
   
 CSS
 - Global: Used on multiple pages and/or in multiple components
