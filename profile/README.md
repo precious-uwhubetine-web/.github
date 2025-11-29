@@ -9,7 +9,7 @@ CSS
   
 JS
 - Global: Used on multiple pages and/or in multiple components
-- Page
+- Page: Used on a single page
 - Component
 
 
