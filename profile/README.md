@@ -1,21 +1,21 @@
 ## Code Blocks
 
 ### HTML
-- Global/Component: Visible on multiple pages
-- Page
+- Global code blocks / Component code: Visible on multiple pages
+- Page code
   
 ### CSS
-- Global: Used on multiple pages and/or in multiple components
-- Page: Per page styling
-- Component: Per component styling
+- Global classes: Used on multiple pages and/or in multiple components
+- Page classes: Per page styling
+- Component classes: Per component styling
   
 ### JS
-- Global: Used on multiple pages and/or in multiple components
-- Page: Used on a single page
-- Component
+- Global functions: Used on multiple pages and/or by multiple components
+- Page functions: Used on a single page
+- Component functions: Used by a single component
 
 
-## CSS Class Categories
+## CSS Global Classes Categories
 
 - Background
   - Background Color
