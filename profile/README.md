@@ -1,17 +1,15 @@
-##
-
 HTML
 - Global: Visible on multiple pages (Same as component)
 - Page
 - Component: Visible on multiple pages (Same as Global)
   
 CSS
-- Global: Used on multiple pages and components
+- Global: Used on multiple pages and/or in multiple components
 - Page: Per page styling
 - Component: Per component styling
   
 JS
-- Global: Used on multiple pages and components
+- Global: Used on multiple pages and/or in multiple components
 - Page
 - Component
 
