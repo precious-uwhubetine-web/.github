@@ -1,19 +1,22 @@
-HTML
+## Code Blocks
+
+### HTML
 - Global/Component: Visible on multiple pages
 - Page
   
-CSS
+### CSS
 - Global: Used on multiple pages and/or in multiple components
 - Page: Per page styling
 - Component: Per component styling
   
-JS
+### JS
 - Global: Used on multiple pages and/or in multiple components
 - Page: Used on a single page
 - Component
 
 
 ## CSS Class Categories
+
 - Background
   - Background Color
 - Border
